@@ -1,18 +1,27 @@
-### Oi! Sou Carlos Santana. 
-  ## Atualmente sou estudante do Curso de JavaScript.
+## Olá!!! Eu sou Carlos Santana
+<br>
+
+- 😎 Estudante de desenvolvimento BackEnd
+
+
 <div align="center">
   <a href="https://github.com/carloslsantana87">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carloslsantana87&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslsantana87&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloslsantana87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslsantana87&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<br>
+    
+## Atualmente Estudando 👇
 
-</div>
+<div align="left>
+  <img align="center" height="30" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
-## 
- 
-<div align="center">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="MySql" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg">
 </div>
+
+<br>
+
+ 
