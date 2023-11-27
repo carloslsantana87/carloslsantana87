@@ -13,7 +13,7 @@
     
 ## Atualmente Estudando 👇
 
-<div align="left>   
+<div align="left">   
   <img align="center" height="30" width="40" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" height="30" width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">  
   <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
