@@ -27,8 +27,6 @@
 
 
 ## - Formações:
-[<img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" height="60"/></a>](https://www.dio.me/certificate/C4512F09/)
-[<img src="https://raw.githubusercontent.com/alexklenio/softexFapBackEnd2023/main/Certificado/badge.png" height="60" target="_blank"/></a>](https://media.licdn.com/dms/image/D4D22AQFosakF7MmjNA/feedshare-shrink_2048_1536/0/1706309671659?e=1710979200&v=beta&t=K23pT6aZ59BmWJ67UR_k7Iy8A-mIm5dQ1uBsSwcC2ns)
 
 ## - Outras Tecnologias:
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
