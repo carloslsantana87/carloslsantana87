@@ -2,11 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=alexklenio&style=for-the-badge&abbreviated=true&color=yellow)
 <img align="right" src="https://eduardo-kropniczki.up.railway.app/dektup.svg" width="250"/>
 <br>
-<li> 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniNassau</li>
-<li> 📚 FAP Softex 2023 Concluido com louvor!!!, BackEnd com JavaScript / TypeScript</li>
-<li> 📚 FAP Softex 2024 em curso, FrontEnd com React / TypeScript - Rumo ao FullStack</li>
-<li> 🌱 Aprendendo  C# e modelagem de dados!</li>
-<li> 📚 "O trabalho duro vence o dom natural, consistência é o segredo!"</li>
+<li> 📚 FAP Softex 2023 Concluiído!!!, BackEnd com JavaScript / TypeScript</li>
+<li> 📚 FAP Softex 2024 em curso, FrontEnd com React/TypeScript - Rumo ao FullStack</li>
+<li> 🌱 Aprendendo  Angular</li>
+<li> 🌱 Rememorando  Delphi - 11</li>
 <br>
 <br>
 
