@@ -17,8 +17,8 @@
     <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" height="40" width="40" alt="GitHub" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
-    <img align="center" height="30" width="40" alt="PostGres" src="https://raw.githubusercontent.com/gui-bus/TechIcons/ffe509a6f406ebfddc805304cf29bb60df26a701/Light/PostgreSQL.svg">
-    <img align="center" height="30" width="40" alt="PostGres" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/MySQL.svg">    
+    <img align="center" height="30" width="40" alt="PostGres" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+    <img align="center" height="30" width="40" alt="MySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"> 
     <img align="center" height="30" width="40" alt="Angular" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg">
   </div>
 <br>
