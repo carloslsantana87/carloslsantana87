@@ -3,13 +3,13 @@
 <img align="right" src="https://eduardo-kropniczki.up.railway.app/dektup.svg" width="250"/>
 <br>
 <li> 📚 FAP Softex 2023 Concluiído!!!, BackEnd com JavaScript / TypeScript</li>
-<li> 📚 FAP Softex 2024 em curso, FrontEnd com React/TypeScript - Rumo ao FullStack</li>
+<li> 📚 FAP Softex 2024 em curso, FrontEnd com React/TypeScript </li>
 <li> 🌱 Aprendendo  Angular</li>
 <li> 🌱 Rememorando  Delphi - 11</li>
 <br>
 <br>
 
-    
+
 ## - Tecnologias
 
 <div align="left>
@@ -27,11 +27,6 @@
 ## - Formações:
 [<img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" height="60"/></a>](https://www.dio.me/certificate/C4512F09/)
 [<img src="https://raw.githubusercontent.com/alexklenio/softexFapBackEnd2023/main/Certificado/badge.png" height="60" target="_blank"/></a>](https://media.licdn.com/dms/image/D4D22AQFosakF7MmjNA/feedshare-shrink_2048_1536/0/1706309671659?e=1710979200&v=beta&t=K23pT6aZ59BmWJ67UR_k7Iy8A-mIm5dQ1uBsSwcC2ns)
-
-## - Bootcamps:
-[<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/5136A500/)
-[<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/JRHB2QCH/)
-
 
 ## - Outras Tecnologias:
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
