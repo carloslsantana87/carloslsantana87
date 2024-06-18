@@ -19,8 +19,6 @@
     <img align="center" height="40" width="40" alt="GitHub" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
     <img align="center" height="30" width="40" alt="PostGres" src="https://raw.githubusercontent.com/gui-bus/TechIcons/ffe509a6f406ebfddc805304cf29bb60df26a701/Light/PostgreSQL.svg">
     <img align="center" height="30" width="40" alt="Angular" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Angular.svg">
-    
-    
   </div>
 <br>
 
