@@ -4,8 +4,8 @@
 <br>
 <li> 📚 FAP Softex 2023 Concluiído!!!, BackEnd com JavaScript / TypeScript</li>
 <li> 📚 FAP Softex 2024 em curso, FrontEnd com React/TypeScript </li>
-<li> 🌱 Aprendendo  Angular</li>
-<li> 🌱 Rememorando  Delphi - 11</li>
+<li> 🌱 Estudando Angular</li>
+<li> 🌱 Estudando Delphi - 11</li>
 <br>
 <br>
 
