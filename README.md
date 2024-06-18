@@ -17,7 +17,6 @@
     <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" height="40" width="40" alt="GitHub" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
-    <img align="center" height="40" width="40" alt="C#" src="https://raw.githubusercontent.com/alexklenio/DIO-dotnet-developer/main/imagens/c-logo-icon-18.png">
   </div>
 <br>
 
