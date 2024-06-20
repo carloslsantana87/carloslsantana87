@@ -15,6 +15,7 @@
 <div style="text-align: left;">
     <img style="vertical-align: middle;" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img style="vertical-align: middle;" height="30" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img style="vertical-align: middle;" height="30" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/HTML.svg">
     <img style="vertical-align: middle;" height="30" width="40" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
     <img style="vertical-align: middle;" height="40" width="40" alt="Node.js" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
     <img style="vertical-align: middle;" height="30" width="40" alt="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
