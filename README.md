@@ -1,7 +1,6 @@
 ## Olá eu sou o Carlos Santana 🧑🏻‍💻! 
 ![](https://komarev.com/ghpvc/?username=carloslsantana87&style=for-the-badge&abbreviated=true&color=yellow)
 <img align="right" src="https://img.freepik.com/fotos-gratis/homem-tiro-medio-usando-oculos-vr_23-2149126949.jpg?w=826&t=st=1719339272~exp=1719339872~hmac=b8a1318c5693b166b0118ded5416e5a0bd2cd19eed55f933aac0b7c45f01863c" width="250"/>
-https://www.svgrepo.com/svg/317108/old-man
 <br>
 <li> 📚 FAP Softex 2023 Concluiído!!!, BackEnd com JavaScript / TypeScript</li>
 <li> 📚 FAP Softex 2024 em curso, FrontEnd com React/TypeScript </li>
