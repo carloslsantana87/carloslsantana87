@@ -1,6 +1,7 @@
 ## Olá eu sou o Carlos Santana 🧑🏻‍💻! 
 ![](https://komarev.com/ghpvc/?username=carloslsantana87&style=for-the-badge&abbreviated=true&color=yellow)
-<img align="right" src="https://eduardo-kropniczki.up.railway.app/dektup.svg" width="250"/>
+<img align="right" src="https://www.svgrepo.com/svg/317108/old-man" width="250"/>
+https://www.svgrepo.com/svg/317108/old-man
 <br>
 <li> 📚 FAP Softex 2023 Concluiído!!!, BackEnd com JavaScript / TypeScript</li>
 <li> 📚 FAP Softex 2024 em curso, FrontEnd com React/TypeScript </li>
