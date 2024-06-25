@@ -1,6 +1,6 @@
 ## Olá eu sou o Carlos Santana 🧑🏻‍💻! 
 ![](https://komarev.com/ghpvc/?username=carloslsantana87&style=for-the-badge&abbreviated=true&color=yellow)
-<img align="right" src="https://img.freepik.com/fotos-gratis/retrato-3d-de-pessoas_23-2150793921.jpg?w=360&t=st=1719338710~exp=1719339310~hmac=c52438420ef7b93d7c503aa6582f430af47b8891d1423b386a0b4d8c01ece5f2" width="180"/>
+<img align="right" src="https://img.freepik.com/fotos-gratis/retrato-3d-de-pessoas_23-2150793921.jpg?w=360&t=st=1719338710~exp=1719339310~hmac=c52438420ef7b93d7c503aa6582f430af47b8891d1423b386a0b4d8c01ece5f2" width="150"/>
 <br>
 <li> 📚 FAP Softex 2023 Concluiído!!!, BackEnd com JavaScript / TypeScript</li>
 <li> 📚 FAP Softex 2024 em curso, FrontEnd com React/TypeScript </li>
